@@ -1,0 +1,28 @@
+<script>
+
+
+google.script.run.withSuccessHandler(showData).getInventory();
+        
+           function showData(dataArray){
+           $(document).ready(function(){
+             $('#data-table').DataTable({
+
+
+                responsive: true,
+               data: dataArray,
+            
+               columns: [
+                 {"title":"ID"},
+                 {"title":"Item Name"},
+                 {"title":"Quantity"},
+            {"title":"Location"},
+            {"title":"Date Added"},
+              
+               ]
+             });
+           });
+         }
+
+
+  
+</script>
