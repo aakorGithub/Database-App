@@ -20,4 +20,4 @@ Set up your SQL database according to the provided schema.
 Open the HTML files in your preferred web browser.
 
 # Demo
-in - Progress
+Work in Progress
