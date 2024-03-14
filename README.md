@@ -20,4 +20,4 @@
 . CSS: Styles the HTML elements for a visually pleasing experience.
 
 # Demo
-. Work in Progress
+. To view the demo click here: https://script.google.com/a/toromail.csudh.edu/macros/s/AKfycbwgYU03cDXgRD7IGWIkqRVpZpkPl3JwM4x0_zgkKzM/dev?page=inventory 
