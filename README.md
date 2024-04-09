@@ -27,4 +27,5 @@ https://github.com/aakorGithub/GappDb-Google-Apps-Script-Software-Application/as
 
 
 
-. To view the demo click here >  : https://script.google.com/macros/s/AKfycbzjO0Ev34wuRYxT9FSoA_AquKXub80wHLUWKj1te5A5B6pdQ5OdJ7ZfdX_JRVzdaBvQ/exec
+# Link to Demo 
+https://script.google.com/macros/s/AKfycbzjO0Ev34wuRYxT9FSoA_AquKXub80wHLUWKj1te5A5B6pdQ5OdJ7ZfdX_JRVzdaBvQ/exec
