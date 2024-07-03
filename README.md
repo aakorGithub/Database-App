@@ -27,17 +27,6 @@
 . CSS: Styles the HTML elements for a visually pleasing experience
 
 # Demo
-
-#Login Aunthentication
-
-<img width="1438" alt="Screenshot 2024-07-03 at 11 10 13 AM" src="https://github.com/aakorGithub/GappDb-Google-Apps-Script-Software-Application/assets/115869746/959cc9ee-7549-437e-892a-d148948bb197">
-
-
-
-
-
-
-
 https://github.com/aakorGithub/GappDb-Google-Apps-Script-Software-Application/assets/115869746/96f8be96-a0f3-4102-8650-6da934fa0b5c
 
 
