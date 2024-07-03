@@ -38,6 +38,10 @@
 
 
 
+https://github.com/aakorGithub/GappDb-Google-Apps-Script-Software-Application/assets/115869746/96f8be96-a0f3-4102-8650-6da934fa0b5c
+
+
+
 
 
 
