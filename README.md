@@ -36,7 +36,6 @@
 
 
 
- center https://github.com/aakorGithub/GappDb-Google-Apps-Script-Software-Application/assets/115869746/35cfc072-e690-4a6f-a8f7-866903fff1ab 
 
 
 
