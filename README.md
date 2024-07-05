@@ -15,7 +15,7 @@
 
 
 # Features
-. SQL Database Management: Utilizes SQL for efficient data storage and retrieval <br>
+. SQL Database Management: Utilizes Excel spread sheet for data fetching and SQL for efficient data storage and retrieval <br>
 . Dynamic Functionality: JavaScript is used to add dynamic functionality to the system <br> 
   enhancing user experience <br>
 . User Interface: HTML and CSS are employed to create an intuitive and visually appealing user interface
