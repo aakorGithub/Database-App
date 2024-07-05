@@ -1,6 +1,6 @@
 # Database System
 . This repository contains a database system designed using SQL for database management, JavaScript for dynamic functionality, and 
-  HTML/CSS for the user interface <br>
+  HTML/CSS for the user interface, Excel spreadsheet pipeline is integrated and serves as a database where query can be fetch and return output on the website<br>
 . The system aims to provide a robust and user-friendly interface for managing data efficiently <br>
 . This App is built with code integration with Google Appscript and is deployable to the Googla App Store <br>
 . This Application is a data storage software,It purpose to collect, update and store data from an Excel Spread to Based on the data 
