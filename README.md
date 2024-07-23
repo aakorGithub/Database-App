@@ -9,7 +9,7 @@
   google calendar <br>
 . This App is built with code integration with Google Appscript and is deployable to the Googla App Store <br>
 . This Application is a data storage software,It purpose to collect, update and store data from an Excel Spread <br>
-. Tts purpose is to search and store queries based on data input and return valid data base on queary request by users <br>
+. The purpose is to search and store queries based on data input and return valid data base on queary request by users <br>
 . This Application can be usufully for tasks such as storing inventory list, Employees data such as Id and its capable of setting event 
   in google calendar
 
