@@ -1,30 +1,52 @@
-# Database System
-. This repository contains a database system designed using SQL for database management, JavaScript for dynamic functionality, and 
-  HTML/CSS for the user interface, Excel spreadsheet pipeline is integrated and serves as a database where query can be fetch and return output on the website<br>
-. The system aims to provide a robust and user-friendly interface for managing data efficiently <br>
-. This App is built with code integration with Google Appscript and is deployable to the Googla App Store <br>
-. This Application is a data storage software,It purpose to collect, update and store data from an Excel Spread to Based on the data 
-  storage on Excel Spread. And its purpose is to search and store queries based on data input and return valid data <br>
-. This Application can be usufully for tasks such as inventory list, Employees data such as Id and its capable of setting events in 
-  google calendar <br>
-. This App is built with code integration with Google Appscript and is deployable to the Googla App Store <br>
-. This Application is a data storage software,It purpose to collect, update and store data from an Excel Spread <br>
-. The purpose is to search and store queries based on data input and return valid data base on queary request by users <br>
-. This Application can be usufully for tasks such as storing inventory list, Employees data such as Id and its capable of setting event 
-  in google calendar
+# Database System Application
+This repository contains a database system designed for efficient data management and user-friendly interaction. It integrates SQL for data querying, JavaScript for dynamic functionality, and HTML/CSS for a clean and intuitive user interface. The system uses an Excel spreadsheet as the core data pipeline, allowing users to fetch and return query results directly on a web interface.
 
+# Overview
+This application serves as a lightweight, cloud-based data storage and retrieval system. It is ideal for tasks such as managing inventory, tracking employee data (e.g., IDs), and scheduling events via Google Calendar.
 
-# Features
-. SQL Database Management: Utilizes Excel spread sheet for data fetching and SQL for efficient data storage and retrieval <br>
-. Dynamic Functionality: JavaScript is used to add dynamic functionality to the system <br> 
-  enhancing user experience <br>
-. User Interface: HTML and CSS are employed to create an intuitive and visually appealing user interface
+The app is built with Google Apps Script, allowing it to:
+
+Interact with Google Sheets as a database
+
+Automate data storage and updates
+
+Be deployed to the Google Workspace Marketplace for easy access and integration
+
+# Key Features
+Excel/Spreadsheet Integration
+Uses Google Sheets (Excel-style) as the backend database, enabling seamless data updates and queries.
+
+# SQL Query Functionality
+Fetches and processes data using SQL-like queries for fast and structured information retrieval.
+
+# Dynamic Web Interface
+Built with JavaScript to enhance interactivity and provide real-time feedback based on user input.
+
+# Modern UI Design
+Developed using HTML and CSS to ensure a user-friendly, responsive, and visually appealing interface.
+
+# Google Calendar Integration
+Can schedule and manage calendar events directly from stored data entries.
+
+# Use Cases
+Inventory management
+
+Employee record tracking (e.g., ID numbers, roles, departments)
+
+Event scheduling and reminders via Google Calendar
+
+General data entry, search, and update workflows
 
 # Technologies Used
-. SQL: Structured Query Language for database management <br>
-. JavaScript: Adds dynamic functionality to the system <br>
-. HTML: Provides the structure for web pages <br>
-. CSS: Styles the HTML elements for a visually pleasing experience
+SQL – For structured data queries and management
+
+JavaScript – Adds interactivity and handles front-end logic
+
+HTML – Structures the layout of the web application
+
+CSS – Styles the application for a polished user experience
+
+Google Apps Script – Enables integration with Google Sheets and Calendar
 
 # Demo
 https://github.com/aakorGithub/GappDb-Google-Apps-Script-Software-Application/assets/115869746/96f8be96-a0f3-4102-8650-6da934fa0b5c
